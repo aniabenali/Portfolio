@@ -1,7 +1,7 @@
 title: Ania BENALI
 logo: assets/img/headshot_circle.png  # Retirer le '/' au début
 description: PORTFOLIO de Ania BENALI
-theme: jekyll-theme-hyde
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag         # Plugin pour améliorer le SEO de ton site
   - jekyll-paginate        # Plugin pour gérer la pagination
