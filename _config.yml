@@ -1,6 +1,5 @@
 title: Ania BENALI
 logo: assets/img/headshot_circle.png  # Retirer le '/' au début
 description: Je suis biostatisticienne et étudiante en data science en santé, passionnée par l'analyse statistique des données. Mon objectif est de développer mes compétences en modélisation et apprentissage automatique, dans le but d'optimiser les projets de santé et de contribuer à répondre aux enjeux majeurs dans ce domaine.
-theme: jekyll-theme-hyde
-
+theme: jekyll-theme-minimal
 
