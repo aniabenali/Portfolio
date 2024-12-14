@@ -11,7 +11,6 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 ### Python
 <div style="display: flex; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="margin-right: 10px;">
-  Python
 </div>
 
 - **Pandas**: Manipulation et analyse de données
@@ -22,7 +21,7 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 ### R
 <div style="display: flex; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30" style="margin-right: 10px;">
-  R
+
 </div>
 
 - **tidyverse**: Collection de packages pour la manipulation de données
@@ -32,8 +31,7 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 
 ### SQL
 <div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SQL.svg" alt="SQL" width="30" height="30" style="margin-right: 10px;">
-  SQL
+  <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="SQL" width="30" height="30" style="margin-right: 10px;">
 </div>
 
 - **MySQL**: Gestion de bases de données relationnelles
