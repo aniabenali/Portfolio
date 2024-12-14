@@ -75,7 +75,17 @@ Passionnée par l’analyse et la modélisation de données, étudiante en Data 
 ### Scoping review sur l’IA et la dentisterie  
 - 🎯 **Objectif :** Identifier les pathologies bucco-dentaires ciblées par les technologies d'IA.  
 - 📋 **Méthodes :** Recherche documentaire exhaustive et analyse thématique.  
-- 🛠️ **Outils :** Excel, Zotero.  
+- 🛠️ **Outils :** Excel, Zotero.
 
+## 🌍 Langues  
+- **Anglais :** Courant  
+- **Français :** Langue maternelle  
+- **Arabe :** Langue maternelle  
+- **Amazigh :** Compétence de base  
+
+## 📞 Coordonnées  
+- **E-mail :** [ania.benali.etu@univ-lille.fr](mailto:ania.benali.etu@univ-lille.fr)  
+- **Localisation :** Roubaix, 59100, France  
+- **LinkedIn :** [Ania Benali](https://www.linkedin.com/in/ania-benali-78924825)  
 
 
