@@ -9,14 +9,9 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 # 💻 Compétences Techniques
 
 <div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30">
-  <span style="margin-left: 10px;">R</span>
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="margin-left: 20px;">
-  <span style="margin-left: 10px;">Python</span>
-  
-  <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="SQL" width="30" height="30" style="margin-left: 20px;">
-  <span style="margin-left: 10px;">SQL</span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30" style="margin-right: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="margin-right: 20px;">
+  <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="SQL" width="30" height="30">
 </div>
 ---
 
