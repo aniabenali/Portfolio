@@ -8,7 +8,6 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 
 # Compétences Techniques
 
-### Python
 <div style="display: flex; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="margin-right: 10px;">
 </div>
@@ -18,7 +17,7 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 - **Matplotlib**: Visualisation de données 2D
 - **Seaborn**: Visualisation avancée basée sur Matplotlib
 
-### R
+
 <div style="display: flex; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30" style="margin-right: 10px;">
 
@@ -29,7 +28,7 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 - **ggplot2**: Création de graphiques basés sur la grammaire des graphiques
 - **lubridate**: Manipulation des dates et heures
 
-### SQL
+
 <div style="display: flex; align-items: center;">
   <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="SQL" width="30" height="30" style="margin-right: 10px;">
 </div>
