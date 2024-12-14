@@ -8,38 +8,39 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 
 # Compétences Techniques
 
-## Programming and Coding 💻
+### Python
 <div style="display: flex; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="margin-right: 10px;">
   Python
+</div>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30" style="margin-left: 20px; margin-right: 10px;">
+- **Pandas**: Manipulation et analyse de données
+- **NumPy**: Calcul scientifique avec des matrices et des tableaux multidimensionnels
+- **Matplotlib**: Visualisation de données 2D
+- **Seaborn**: Visualisation avancée basée sur Matplotlib
+
+### R
+<div style="display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30" style="margin-right: 10px;">
   R
 </div>
 
-## Data Manipulation and Analysis 🛠️
+- **tidyverse**: Collection de packages pour la manipulation de données
+- **dplyr**: Manipulation de données avec une syntaxe fluide
+- **ggplot2**: Création de graphiques basés sur la grammaire des graphiques
+- **lubridate**: Manipulation des dates et heures
+
+### SQL
 <div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SQL.svg" alt="SQL" width="30" height="30" style="margin-right: 10px;">
   SQL
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="margin-left: 20px; margin-right: 10px;">
-  pandas
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="margin-left: 20px; margin-right: 10px;">
-  NumPy
 </div>
 
-## Data Visualization 📈
-<div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="margin-right: 10px;">
-  Matplotlib
+- **MySQL**: Gestion de bases de données relationnelles
+- **PostgreSQL**: Base de données relationnelle avec des fonctionnalités avancées
+- **SQLite**: Base de données légère pour des applications locales
+- **SQL Server**: Gestion et analyse de données avec SQL
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30" style="margin-left: 20px; margin-right: 10px;">
-  ggplot2
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30" style="margin-left: 20px; margin-right: 10px;">
-  shiny
-</div>
 
 
 
