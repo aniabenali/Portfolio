@@ -130,7 +130,7 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 ---
 
 # 📱 Trouvez-moi en ligne  
-- 🐱 [GitHub](https://github.com/aniabenali))  
+- 🐱 [GitHub](https://github.com/aniabenali) 
 - 🦊 [GitLab](https://gitlab.com/ania.benali) 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ania-benali-78924825)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ania-benali-789248258/)  
 
