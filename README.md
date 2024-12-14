@@ -6,21 +6,47 @@
 Passionnée par l’analyse et la modélisation de données, je suis actuellement étudiante en Data Science avec un Master en Biostatistique. Mon objectif est de mettre ma rigueur et mon esprit d’équipe au service de projets innovants à fort impact social, particulièrement dans le domaine de la santé.
 
 
-# 💻 Compétences Techniques
+# Compétences Techniques
 
+## Programming and Coding 💻
 <div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30" style="margin-right: 20px;">
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="margin-right: 20px;">
-  
-  <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="SQL" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="margin-right: 10px;">
+  Python
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30" style="margin-left: 20px; margin-right: 10px;">
+  R
 </div>
+
+## Data Manipulation and Analysis 🛠️
+<div style="display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30" style="margin-right: 10px;">
+  SQL
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="margin-left: 20px; margin-right: 10px;">
+  pandas
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="margin-left: 20px; margin-right: 10px;">
+  NumPy
+</div>
+
+## Data Visualization 📈
+<div style="display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="margin-right: 10px;">
+  Matplotlib
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30" style="margin-left: 20px; margin-right: 10px;">
+  ggplot2
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30" style="margin-left: 20px; margin-right: 10px;">
+  shiny
+</div>
+
+
 
 # 🎓 Formations Académiques
 
 ## Master 1 Data Science en Santé  
-**Université :** Université de Lille, ILIS  
-**Dates :** 2024 - 2025  
+**Université :** Université de Lille, ILIS    
 **Compétences :**  
 - Analyse statistique avancée (R, Python)  
 - Gestion et intégration de bases de données massives  
@@ -28,14 +54,12 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 
 ## Master Biostatistique  
 **Université :** Université d’Alger 1 / Institut Pasteur d’Alger  
-**Dates :** 2022 - 2024  
 **Compétences :**  
 - Analyse des cohortes épidémiologiques  
 - Modélisation prédictive des maladies infectieuses
 
 ## Licence en Biotechnologies et Santé  
 **Université :** Université d’Alger 1  
-**Dates :** 2019 - 2022  
 **Compétences :**  
 - Processus biologiques et génétiques  
 - Techniques de laboratoire (macro et micro - stage Danapath)
@@ -44,16 +68,14 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 
 # 💼 Expériences Professionnelles
 
-## Stage de fin d’étude – Institut Pasteur d’Algérie  
-**Période :** Février 2024 - Juin 2024  
+## Stage de fin d’étude – Institut Pasteur d’Algérie   
 **Sujet :** Identification des facteurs de risque des teignes du cuir chevelu chez l’enfant  
 **Tâches :**  
 - Collecte, nettoyage et modélisation des données avec **R**  
 - Création de visualisations pour présentation des résultats  
 - Identification des facteurs de risque clés et recommandations pour la prévention
 
-## Stage découverte – Hôpital Parnet  
-**Période :** Juin 2021  
+## Stage découverte – Hôpital Parnet   
 **Sujet :** Introduction à l’anatomie et cytologie pathologiques  
 **Tâches :**  
 - Observation des étapes de traitement des prélèvements biologiques  
@@ -88,7 +110,7 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 - **Outils :** R (FactoMineR, factoextra, ggplot2)  
 - **Résultats :** Identification des variables influentes et regroupement des véhicules
 
-## Scoping review sur l’IA et la dentisterie  
+## Scoping review: IA et dentisterie  
 - **Objectif :** Identifier les pathologies bucco-dentaires ciblées par les technologies d'IA  
 - **Méthodes :** Recherche documentaire exhaustive et analyse thématique  
 - **Outils :** Excel, Zotero
@@ -110,7 +132,7 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 ---
 
 # 📱 Trouvez-moi en ligne  
-- 🐱 [GitHub](https://github.com/tonprofil)  
-- 🦊 [GitLab](https://gitlab.com/tonprofil)  
+- 🐱 [GitHub](https://github.com/aniabenali))  
+- 🦊 [GitLab](https://gitlab.com/ania.benali) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ania-benali-78924825)  
 
