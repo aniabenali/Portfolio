@@ -1,8 +1,8 @@
 # Healthcare Data Scientist 
 Compétences techniques : 
-![Python](/assets/images/python.png)
-![R](/assets/images/r.png)
-![SQL](/assets/images/sql.png)
+![Python](/assets/img/python.png)
+![R](/assets/img/r.png)
+![SQL](/assets/img/sql.png)
 
 ##  À propos de moi 
 Passionnée par l’analyse et la modélisation de données, étudiante
