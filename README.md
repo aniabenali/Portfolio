@@ -89,6 +89,6 @@ Passionnée par l’analyse et la modélisation de données, étudiante en Data 
 
 ## Trouvez moi en ligne sur :
 ### Réseaux sociaux et portfolio :  
-- 🐱  **GitHub :** [Ton profil GitHub](https://github.com/tonprofil)  
+- 🐱  **GitHub :** (https://github.com/tonprofil)  
 - 🦊 **GitLab :** [Ton profil GitLab](https://gitlab.com/tonprofil)  
 - 🔗 **LinkedIn :** [Ton profil LinkedIn](https://www.linkedin.com/in/ania-benali-78924825)  
