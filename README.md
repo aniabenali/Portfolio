@@ -86,6 +86,6 @@ Passionnée par l’analyse et la modélisation de données, étudiante en Data 
 ## 📞 Coordonnées  
 - **E-mail :** [ania.benali.etu@univ-lille.fr](mailto:ania.benali.etu@univ-lille.fr)  
 - **Localisation :** Roubaix, 59100, France  
-- **LinkedIn :** [Ania Benali](https://www.linkedin.com/in/ania-benali-78924825)  
+- **LinkedIn :** [Ania Benali](https://www.linkedin.com/in/ania-benali-789248258/)  
 
 
