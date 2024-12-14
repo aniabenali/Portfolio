@@ -84,8 +84,11 @@ Passionnée par l’analyse et la modélisation de données, étudiante en Data 
 - **Amazigh :** Compétence de base  
 
 ## 📞 Coordonnées  
-- **E-mail :** [ania.benali.etu@univ-lille.fr](mailto:ania.benali.etu@univ-lille.fr)  
+- **E-mail :** [ania.benali.etu@univ-lille.fr](mailto:ania.benali.etu@univ-lille.fr) /[benali.ania42@gmail.com](mailto:benali.ania42@gmail.com)
 - **Localisation :** Roubaix, 59100, France  
-- **LinkedIn :** [Ania Benali](https://www.linkedin.com/in/ania-benali-789248258/)  
 
-
+## Trouvez moi en ligne sur :
+### Réseaux sociaux et portfolio :  
+- 🐱  **GitHub :** [Ton profil GitHub](https://github.com/tonprofil)  
+- 🦊 **GitLab :** [Ton profil GitLab](https://gitlab.com/tonprofil)  
+- 🔗 **LinkedIn :** [Ton profil LinkedIn](https://www.linkedin.com/in/ania-benali-78924825)  
