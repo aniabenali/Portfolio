@@ -5,6 +5,19 @@
 
 Passionnée par l’analyse et la modélisation de données, je suis actuellement étudiante en Data Science avec un Master en Biostatistique. Mon objectif est de mettre ma rigueur et mon esprit d’équipe au service de projets innovants à fort impact social, particulièrement dans le domaine de la santé.
 
+
+# 💻 Compétences Techniques
+
+<div style="display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30">
+  <span style="margin-left: 10px;">R</span>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="margin-left: 20px;">
+  <span style="margin-left: 10px;">Python</span>
+  
+  <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="SQL" width="30" height="30" style="margin-left: 20px;">
+  <span style="margin-left: 10px;">SQL</span>
+</div>
 ---
 
 # 🎓 Formations Académiques
