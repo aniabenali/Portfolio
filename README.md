@@ -43,11 +43,25 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 
 ## 🎓 Formations Académiques
 
-| **Université**                              | **Diplôme**                     | **Période**           | **Compétences Clés**                                                                                     |
-|---------------------------------------------|----------------------------------|-----------------------|----------------------------------------------------------------------------------------------------------|
-| Université de Lille, ILIS                   | Master 1 Data Science en Santé  | 2024 - 2025           | - Analyse statistique avancée (R, Python)                                                               <br> - Gestion et intégration de bases de données massives <br> - Modélisation de données en santé |
-| Université d’Alger 1 / Institut Pasteur d’Alger | Master Biostatistique           | 2022 - 2024           | - Analyse des cohortes épidémiologiques                                                                 <br> - Modélisation prédictive des maladies infectieuses |
-| Université d’Alger 1, Algérie               | Licence en Biotechnologies et Santé | 2019 - 2022        | - Processus biologiques et génétiques                                                                   <br> - Techniques de laboratoire (macro et micro - stage Danapath) |
+<style>
+  table {
+    width: 100%;
+    table-layout: fixed;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  th:nth-child(3), td:nth-child(3) {
+    width: 200px; /* Ajuste la largeur de la colonne "Période" */
+  }
+</style>
+
+| **Université**                                  | **Diplôme**                         | **Période**               | **Compétences Clés**                                                                                             |
+|-------------------------------------------------|------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------|
+| Université de Lille, ILIS                       | Master 1 Data Science en Santé    | 2024 - 2025               | - Analyse statistique avancée (R, Python) <br> - Gestion et intégration de bases de données massives <br> - Modélisation de données en santé |
+| Université d’Alger 1 / Institut Pasteur d’Alger  | Master Biostatistique             | 2022 - 2024               | - Analyse des cohortes épidémiologiques <br> - Modélisation prédictive des maladies infectieuses                   |
+| Université d’Alger 1, Algérie                   | Licence en Biotechnologies et Santé | 2019 - 2022               | - Processus biologiques et génétiques <br> - Techniques de laboratoire (macro et micro - stage Danapath)           |
 
 
 
