@@ -1,8 +1,5 @@
-<img src="assets/img/headshot_circle.png" class="header-img" alt="Ania BENALI">
 
 # Bienvenue sur mon Portfolio
-
-![Ania BENALI](assets/img/headshot_circle.png)
 
 
 ## À propos de moi
@@ -33,12 +30,12 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 | Université d’Alger 1, Algérie               | Licence en Biotechnologies et Santé | 2019 - 2022        | - Processus biologiques et génétiques                                                                   <br> - Techniques de laboratoire (macro et micro - stage Danapath) |
 
 
----
+
 
 
 ## 💼 Expériences Professionnelles
 
-## Stage de fin d’étude – Institut Pasteur d’Algérie   
+### Stage de fin d’étude – Institut Pasteur d’Algérie   
 **Sujet :** Identification des facteurs de risque des teignes du cuir chevelu chez l’enfant  
 **Tâches :**  
 - Collecte, nettoyage et modélisation des données avec **R**  
@@ -57,7 +54,6 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 
 
 ## 📂 Projets Universitaires
-## 🔬 Projets et Analyses
 
 | **Titre**                                   | **Objectif**                                         | **Outils**                        |
 |---------------------------------------------|-----------------------------------------------------|------------------------------------|
@@ -69,7 +65,7 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 
 
 
----
+
 
 
 ## 🌍 Langues  
@@ -79,7 +75,7 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 - **Amazigh :** Compétence de base
 
 
----
+
 
 
 ## 📞 Coordonnées  
@@ -87,7 +83,7 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 - **Localisation :** Roubaix, 59100, France  
 
 
----
+
 
 
 ## 📱 Trouvez-moi en ligne  
