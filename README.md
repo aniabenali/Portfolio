@@ -29,7 +29,6 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 </div>
 
 
-
 ## 🎓 Formations Académiques
 
 | **Université**                              | **Diplôme**                     | **Période**           | **Compétences Clés**                                                                                     |
