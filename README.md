@@ -18,6 +18,13 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 
 
 
+## 🛠 Outils
+
+![Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/a/a7/Jupyter_logo.svg){: width="50" height="50" }
+![Google Colab](https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Colab_Logo.svg){: width="50" height="50" }
+![RStudio](https://upload.wikimedia.org/wikipedia/commons/1/1b/RStudio_logo_2022.svg){: width="50" height="50" }
+![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/4/49/Visual_Studio_Code_1.35_icon.svg){: width="50" height="50" }
+![DataSpell](https://upload.wikimedia.org/wikipedia/commons/3/31/DataSpell_Logo.png){: width="50" height="50" }
 
 
 
