@@ -1,8 +1,27 @@
 title: "Ania BENALI"
-logo: "assets/img/headshot_circle.png"  # Retirer le '/' au début
+logo: "assets/img/headshot_circle.png"  # Image de logo
 show_downloads: false
 description: "PORTFOLIO de Ania BENALI"
-theme: jekyll-theme-slate
+theme: "minimal-mistakes-jekyll"  # Thème Minimal Mistakes
+
+# Informations sur l'auteur
+author:
+  name: "Ania BENALI"
+  image: "assets/img/headshot_circle.png"  # Photo de profil de l'auteur
+  bio: "Passionnée par l'analyse des données et la biostatistique"
+
+
+
+# Navigation (modifiez selon vos besoins)
+navigation:
+  - Home: /
+  - About: /about/
+  - Portfolio: /portfolio/
+  - Blog: /blog/
+
+# Affichage des icônes sociales (si vous avez des liens)
+show_social_icons: true
+
 
 
 
