@@ -30,26 +30,14 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 
 
 
+
 ## 🎓 Formations Académiques
 
-### Master 1 Data Science en Santé  
-**Université :** Université de Lille, ILIS    
-**Compétences :**  
-- Analyse statistique avancée (R, Python)  
-- Gestion et intégration de bases de données massives  
-- Modélisation de données en santé
-
-### Master Biostatistique  
-**Université :** Université d’Alger 1 / Institut Pasteur d’Alger  
-**Compétences :**  
-- Analyse des cohortes épidémiologiques  
-- Modélisation prédictive des maladies infectieuses
-
-### Licence en Biotechnologies et Santé  
-**Université :** Université d’Alger 1  
-**Compétences :**  
-- Processus biologiques et génétiques  
-- Techniques de laboratoire (macro et micro - stage Danapath)
+| **Université**                              | **Diplôme**                     | **Période**           | **Compétences Clés**                                                                                     |
+|---------------------------------------------|----------------------------------|-----------------------|----------------------------------------------------------------------------------------------------------|
+| Université de Lille, ILIS                   | Master 1 Data Science en Santé  | 2024 - 2025           | - Analyse statistique avancée (R, Python)                                                               <br> - Gestion et intégration de bases de données massives <br> - Modélisation de données en santé |
+| Université d’Alger 1 / Institut Pasteur d’Alger | Master Biostatistique           | 2022 - 2024           | - Analyse des cohortes épidémiologiques                                                                 <br> - Modélisation prédictive des maladies infectieuses |
+| Université d’Alger 1, Algérie               | Licence en Biotechnologies et Santé | 2019 - 2022        | - Processus biologiques et génétiques                                                                   <br> - Techniques de laboratoire (macro et micro - stage Danapath) |
 
 
 ---
