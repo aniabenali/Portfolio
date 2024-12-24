@@ -20,11 +20,13 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 
 ## 🛠 Outils
 
-![Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/a/a7/Jupyter_logo.svg){: width="50" height="50" }
-![Google Colab](https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Colab_Logo.svg){: width="50" height="50" }
-![RStudio](https://upload.wikimedia.org/wikipedia/commons/1/1b/RStudio_logo_2022.svg){: width="50" height="50" }
-![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/4/49/Visual_Studio_Code_1.35_icon.svg){: width="50" height="50" }
-![DataSpell](https://upload.wikimedia.org/wikipedia/commons/3/31/DataSpell_Logo.png){: width="50" height="50" }
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px; margin-top: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Jupyter_logo.svg" alt="Jupyter Notebook" width="80" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Google_Colab_logo_2021.svg/1200px-Google_Colab_logo_2021.svg.png" alt="Google Colab" width="80" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/RStudio_logo_2020.svg" alt="RStudio" width="80" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="80" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/JetBrains_DataSpell_Logo.png" alt="DataSpell" width="80" height="80">
+</div>
 
 
 
