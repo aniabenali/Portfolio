@@ -1,8 +1,8 @@
 title: "Ania BENALI"
-logo: "assets/img/headshot_circle.png"
+logo: "assets/img/headshot_circle.png"  # Retirer le '/' au début
 show_downloads: false
 description: "PORTFOLIO de Ania BENALI"
-theme: "jekyll-theme-minimal-mistakes"  # Le nom correct du thème
+theme: jekyll-theme-slate
 
 
 
