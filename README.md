@@ -8,24 +8,13 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 
 ## Compétences Techniques
 
-<div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="margin-right: 10px;">
+## Compétences Techniques
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40">
+  <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="SQL" width="40" height="40">
 </div>
-
- - **Pandas** , **NumPy**, **Matplotlib** , **Seaborn**
-
-<div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30" style="margin-right: 10px;">
-
-</div>
-
-- **tidyverse** , **dplyr** , **ggplot2** ,  **lubridate**
-
-<div style="display: flex; align-items: center;">
-  <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="SQL" width="30" height="30" style="margin-right: 10px;">
-</div>
-
-- **MySQL** , **PostgreSQL** ,  **SQLite** , **SQL Server**
 
 
 
