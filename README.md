@@ -1,9 +1,29 @@
 <style>
+  /* Augmenter l'espacement des titres */
   h1, h2, h3, h4, h5, h6 {
-    margin-top: 30px;   /* Ajuste l'espacement au-dessus des titres */
-    margin-bottom: 20px; /* Ajuste l'espacement en dessous des titres */
+    margin-top: 50px;    /* Plus d'espace au-dessus des titres */
+    margin-bottom: 40px; /* Plus d'espace en dessous des titres */
+  }
+
+  /* Agrandir le titre h1 (le titre principal) */
+  h1 {
+    font-size: 3em;      /* Agrandir le titre principal */
+    font-weight: bold;   /* Mettre en gras */
+  }
+
+  /* Agrandir les sous-titres h2 */
+  h2 {
+    font-size: 2.5em;    /* Agrandir le titre h2 */
+    font-weight: bold;
+  }
+
+  /* Agrandir les sous-titres h3 */
+  h3 {
+    font-size: 2em;      /* Agrandir le titre h3 */
   }
 </style>
+
+
 # Bienvenue sur mon Portfolio
 
 
