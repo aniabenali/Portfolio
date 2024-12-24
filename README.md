@@ -11,17 +11,7 @@
     font-weight: bold;   /* Mettre en gras */
   }
 
-  /* Agrandir les sous-titres h2 */
-  h2 {
-    font-size: 2.5em;    /* Agrandir le titre h2 */
-    font-weight: bold;
-  }
-
-  /* Agrandir les sous-titres h3 */
-  h3 {
-    font-size: 2em;      /* Agrandir le titre h3 */
-  }
-</style>
+ 
 
 
 # Bienvenue sur mon Portfolio
