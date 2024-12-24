@@ -11,7 +11,7 @@
     font-weight: bold;   /* Mettre en gras */
   }
 
- 
+</style> 
 
 
 # Bienvenue sur mon Portfolio
