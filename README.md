@@ -5,16 +5,21 @@
     margin-bottom: 40px; /* Plus d'espace en dessous des titres */
   }
 
-  /* Agrandir le titre h1 (le titre principal) */
+  /* Agrandir le titre h1 (le titre principal), mais le garder tel quel */
   h1 {
-    font-size: 3em;      /* Agrandir le titre principal */
+    font-size: 2em;      /* Garder la taille par défaut du titre h1 */
     font-weight: bold;   /* Mettre en gras */
   }
 
-</style> 
+  /* Mettre tous les autres titres (h2, h3, h4, h5, h6) en gras, mais garder leur taille actuelle */
+  h2, h3, h4, h5, h6 {
+    font-weight: bold;   /* Mettre en gras */
+  }
+</style>
 
 
-# Bienvenue sur mon Portfolio
+
+# Bienvenue sur mon Portfolio !
 
 
 ## À propos de moi
