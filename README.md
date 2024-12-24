@@ -1,4 +1,4 @@
-<img src="assets/img/profile.jpg" class="header-img" alt="Ania BENALI">
+<img src="assets/img/headshot_circle.png" class="header-img" alt="Ania BENALI">
 
 # Bienvenue sur mon Portfolio
 
