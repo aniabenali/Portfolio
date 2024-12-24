@@ -64,35 +64,16 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 
 
 ## 📂 Projets Universitaires
+## 🔬 Projets et Analyses
 
-### Modélisation statistique avec R  
-- **Objectif :** Identifier les facteurs de risque de décès en unité de soins intensifs  
-- **Méthodes :** Analyse descriptive multivariée et régression logistique  
-- **Outils :** R (dplyr, ggplot2, caret)  
-- **Résultats :** Mise en évidence des variables prédictives majeures
+| **Titre**                                   | **Objectif**                                         | **Outils**                        |
+|---------------------------------------------|-----------------------------------------------------|------------------------------------|
+| **Modélisation statistique avec R**         | Identifier les facteurs de risque en soins intensifs | R (dplyr, ggplot2, caret)          |
+| **Analyse des facteurs de risque sur l'épaisseur de l'intima-média** | Étudier un marqueur de l’athérosclérose              | R (lm(), ggplot2)                  |
+| **Bases de données relationnelles (RDBMS)** | Concevoir et manipuler des bases complexes           | DB Browser for SQLite, SQL         |
+| **Analyse en Composantes Principales (ACP)** | Réduire la dimensionnalité des données `mtcars`      | R (FactoMineR, factoextra, ggplot2)|
+| **Scoping review: IA et dentisterie**       | Identifier les pathologies bucco-dentaires ciblées   | Rayyan, Zotero                     |
 
-### Analyse des facteurs de risque sur l'épaisseur de l'intima-média  
-- **Objectif :** Étudier un marqueur de l’athérosclérose par régression linéaire  
-- **Méthodes :** Vérification des hypothèses de régression et analyse des résultats  
-- **Outils :** R (lm(), ggplot2)
-
-### Création de bases de données relationnelles (RDBMS)  
-- **Objectif :** Concevoir et manipuler des bases de données complexes  
-- **Outils :** DB Browser for SQLite, SQL  
-- **Tâches :**  
-  - Création de tables  
-  - Importation et requêtes complexes
-
-### Analyse en Composantes Principales (ACP) sur le jeu de données `mtcars`  
-- **Objectif :** Réduire la dimensionnalité du jeu de données `mtcars`  
-- **Méthodes :** ACP et interprétation des composantes principales  
-- **Outils :** R (FactoMineR, factoextra, ggplot2)  
-- **Résultats :** Identification des variables influentes et regroupement des véhicules
-
-### Scoping review: IA et dentisterie  
-- **Objectif :** Identifier les pathologies bucco-dentaires ciblées par les technologies d'IA  
-- **Méthodes :** Recherche documentaire exhaustive et analyse thématique  
-- **Outils :** Excel, Zotero
 
 
 ---
