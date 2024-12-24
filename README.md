@@ -73,7 +73,7 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 **Sujet :** Identification des facteurs de risque des teignes du cuir chevelu chez l’enfant  
 **Tâches :**  
 - Collecte, nettoyage et modélisation des données avec **R**  
-- Création de visualisations pour présentation des résultats  
+- Création de visualisations et de tableaux de dashboard pour la présentation des résultats
 - Identification des facteurs de risque clés et recommandations pour la prévention
 
 ### Stage découverte – Hôpital Parnet   
