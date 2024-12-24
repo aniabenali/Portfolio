@@ -1,4 +1,6 @@
-# Health Data Scientist
+# Bienvenue sur mon Portfolio
+
+![Ania BENALI](assets/img/headshot_circle.png)
 
 
 ## À propos de moi
