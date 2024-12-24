@@ -72,7 +72,7 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 - **Anglais :** Courant  
 - **Français :** Langue maternelle  
 - **Arabe :** Langue maternelle  
-- **Amazigh :** Compétence de base
+- **Amazigh :** Langue maternelle  
 
 
 
