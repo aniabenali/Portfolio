@@ -12,12 +12,7 @@ author:
 
 
 
-# Navigation (modifiez selon vos besoins)
-navigation:
-  - Home: /
-  - About: /about/
-  - Portfolio: /portfolio/
-  - Blog: /blog/
+
 
 # Affichage des icônes sociales (si vous avez des liens)
 show_social_icons: true
