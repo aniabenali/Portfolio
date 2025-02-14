@@ -1,19 +1,17 @@
 <style>
-  /* Augmenter l'espacement des titres */
+
   h1, h2, h3, h4, h5, h6 {
-    margin-top: 50px;    /* Plus d'espace au-dessus des titres */
-    margin-bottom: 40px; /* Plus d'espace en dessous des titres */
+    margin-top: 50px;   
+    margin-bottom: 40px; 
   }
 
-  /* Agrandir le titre h1 (le titre principal), mais le garder tel quel */
   h1 {
-    font-size: 2em;      /* Garder la taille par défaut du titre h1 */
-    font-weight: bold;   /* Mettre en gras */
+    font-size: 2em;      
+    font-weight: bold;   
   }
 
-  /* Mettre tous les autres titres (h2, h3, h4, h5, h6) en gras, mais garder leur taille actuelle */
   h2, h3, h4, h5, h6 {
-    font-weight: bold;   /* Mettre en gras */
+    font-weight: bold;   
   }
 </style>
 
