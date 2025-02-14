@@ -1,19 +1,3 @@
-```css
-h1, h2, h3, h4, h5, h6 {
-  margin-top: 50px;
-  margin-bottom: 40px;
-}
-
-h1 {
-  font-size: 2em;
-  font-weight: bold;
-}
-
-h2, h3, h4, h5, h6 {
-  font-weight: bold;
-}
-
-
 
 # Bienvenue sur mon Portfolio !
 
@@ -39,19 +23,6 @@ Passionnée par l’analyse et la modélisation de données, je suis actuellemen
 
 ## 🎓 Formations Académiques
 
-<style>
-  table {
-    width: 100%;
-    table-layout: fixed;
-  }
-  th, td {
-    padding: 8px;
-    text-align: left;
-  }
-  th:nth-child(3), td:nth-child(3) {
-    width: 200px; /* Ajuste la largeur de la colonne "Période" */
-  }
-</style>
 
 | **Université**                                  | **Diplôme**                         | **Période**               | **Compétences Clés**                                                                                             |
 |-------------------------------------------------|------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------|
