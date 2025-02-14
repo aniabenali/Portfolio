@@ -1,19 +1,17 @@
-<style>
+```css
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
 
-  h1, h2, h3, h4, h5, h6 {
-    margin-top: 50px;   
-    margin-bottom: 40px; 
-  }
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
 
-  h1 {
-    font-size: 2em;      
-    font-weight: bold;   
-  }
-
-  h2, h3, h4, h5, h6 {
-    font-weight: bold;   
-  }
-</style>
+h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
 
 
 
